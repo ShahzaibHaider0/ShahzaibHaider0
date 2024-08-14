@@ -12,7 +12,7 @@
 
 - ⚡ Ask Me About : **C , C++ , HTML , CSS , Python ,Machine Learning ,DeepLearning ,NLP**
 
-- ⚡ Feel Free to Concact Me : **ghulam.ahmad.uet@gmail.com**
+- ⚡ Feel Free to Concact Me : **malikshahzaibaps@gmail.com**
 
 - ⚡ About Me : **I am good at Learning and Problem Solving**
 
@@ -20,10 +20,8 @@
 <br>
 <h1 align = "center">Links</h1>
 <p align="center">
-<a href="https://twitter.com/GhulamA381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GhulamA381" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ghulam-ahmad-840a06249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ghulam Ahmad" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ghulamahmad_1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghulamahmad_1" height="30" width="40" /></a>
-<a href="https://leetcode.com/GhulamAhmad381/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shahzaib Haider" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shahzaib-haider-3b360a256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahzaib Haider" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shah.zaib.haider/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shahzaib Haider" height="30" width="40" /></a>
 </p>
 <br>
 </p>
@@ -40,11 +38,6 @@
     <th>Streak</th>
     <th>Languages</th>
   </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghulam-ahmad-1&theme=2077"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=ghulam-ahmad-1&theme=radical&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghulam-ahmad-1&theme=2077"/></td>
-  </tr>
    <br>
 </table>
 
@@ -58,6 +51,6 @@
 <h2 align = "center">Profile Views 👀</h2> 
 <br> 
 <p align = "center">
-<img src="https://profile-counter.glitch.me/ghulam-ahmad-1/count.svg" />
+<img src="https://profile-counter.glitch.me/ShahzaibHaider0/count.svg" />
 </p>
 </p>
